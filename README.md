@@ -10,7 +10,7 @@ Stylish, fun-looking letters that as you mouse over, the list bar passes between
   <li>CSS</li>
 </ul>
   
-# Contact ✉
+# Social Networks 🔗
 <ul>
 <li><a href="https://www.linkedin.com/in/victorlbueno/" target="_blank">VictorlBueno</a> on LinkedIn</li>
 <li><a href="discordapp.com/users/Playsken#1180" target="_blank">Playsken#1180</a> on Discord</li>
