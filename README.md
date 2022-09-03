@@ -1,5 +1,5 @@
 ><a href="https://vlb-stylish-menu.netlify.app/" target="_blank">See this code running on your web</a></br>
-><a href="https://github.com/stars/VictorlBueno/lists/design" target="_blank">See more design codes</a>
+><a href="https://github.com/stars/VictorlBueno/lists/front-end" target="_blank">See more design codes</a>
 
 # Stylish Menu ✨
 Stylish, fun-looking letters that as you mouse over, the list bar passes between the letters, coloring them.
